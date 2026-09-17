@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Excerpts From Select Public Domain Books</title>
+
+</head>
+
+<body>
+
+  <header>
+    
+    <p1>Excerpts From Select Public Domain Books</p1>
+
+  </header>
+
+  <table>
+
+    <tr>
+
+      <td>Book Title</td>
+      <td>Book Author</td>
+
+    </tr>
+
+  </table>
+
+</body>
+
+</html>
